@@ -1,2 +1,2 @@
 # Full-Stack-Web-Development
-My notes/practice code from my course on Full Stack development course
+Playground to for all my MEAN tech stack projects. MonogoDB, Exxpress.js, Angular, Node.js
